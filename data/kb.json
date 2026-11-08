@@ -1,0 +1,22 @@
+[
+{"id":"K01","title":"Roaming in the EU","text":"Calls, SMS and data in the EU and EEA cost the same as at home, with no extra charge. On the Unlimited plan, fair use for roaming data is 30 GB per month. Roaming is enabled in the app under Services > Roaming."},
+{"id":"K02","title":"Roaming outside the EU","text":"Outside the EU and EEA, data costs 0.50 euros per MB unless you activate World Pass. World Pass costs 9.99 euros per day and includes 1 GB of data. Activate it in the app before travelling."},
+{"id":"K03","title":"Activate an eSIM","text":"Open the app, go to SIM > Get eSIM and scan the QR code. Your phone needs a Wi-Fi connection during setup. Activation takes up to 15 minutes. An eSIM is free of charge."},
+{"id":"K04","title":"Lost or damaged SIM card","text":"A replacement physical SIM costs 5 euros and arrives in 3 working days. Order it in the app under SIM > Replace. Your old SIM stops working when the new one is activated."},
+{"id":"K05","title":"PIN and PUK codes","text":"If your phone asks for a PUK code, find it in the app under SIM > PUK. After 10 wrong PUK attempts the SIM is blocked permanently and must be replaced."},
+{"id":"K06","title":"Invoice and payment dates","text":"Invoices are issued on day 1 of each month and direct debit is charged on day 5. A late payment fee of 6 euros applies when an invoice is unpaid after 14 days."},
+{"id":"K07","title":"Change payment method","text":"Change your bank account or card in the app under Billing > Payment method. Changes made before day 28 apply to the next invoice."},
+{"id":"K08","title":"Change your mobile plan","text":"Upgrades apply immediately. Downgrades apply from the next billing cycle. You can change your plan for free once per month in the app under Plan > Change."},
+{"id":"K09","title":"Extra data top-ups","text":"A 5 GB top-up costs 5 euros and a 20 GB top-up costs 12 euros. Top-ups last until the end of the billing cycle and unused data does not roll over."},
+{"id":"K10","title":"Bring your number from another operator","text":"Number portability takes 1 working day. The account holder must request it with a valid ID. Service may be interrupted for up to 2 hours on the switch day."},
+{"id":"K11","title":"Fibre installation appointments","text":"Installation is free and includes a router. The first available appointment is usually within 7 days. You can reschedule for free up to 24 hours before the visit; later changes cost 30 euros."},
+{"id":"K12","title":"No internet on fibre","text":"Restart the router by unplugging it for 30 seconds. If the LOS light is red, there is a line fault: open an incident in the app under Support > Fibre. Line faults are repaired within 24 hours."},
+{"id":"K13","title":"Slow Wi-Fi at home","text":"Place the router in a central, open location. Use the 5 GHz network near the router and the 2.4 GHz network for longer range. Test speed with a cable before opening an incident."},
+{"id":"K14","title":"Device financing and early exit","text":"Financed devices have a 24-month plan. If you leave early, the remaining instalments become payable. The mobile line itself has no minimum contract."},
+{"id":"K15","title":"Device insurance claims","text":"Device insurance costs 7.99 euros per month. Claims must be filed within 48 hours of the incident in the app under Insurance. Each claim has an excess of 49 euros."},
+{"id":"K16","title":"Family plan","text":"A family plan covers up to 5 lines on one invoice. Each additional line after the first gets a 20 percent discount."},
+{"id":"K17","title":"5G coverage","text":"5G is included in all plans at no extra cost. You need a 5G-compatible phone and to be in a covered area. Check coverage on the map in the app under Network."},
+{"id":"K18","title":"Refund timing","text":"Approved refunds reach your bank in 5 working days. Refunds are returned to the original payment method."},
+{"id":"K19","title":"Block premium numbers","text":"You can block premium-rate calls and SMS for free in the app under Services > Restrictions. The change applies within 1 hour."},
+{"id":"K20","title":"International calls","text":"Calls from Spain to other EU countries cost 0.12 euros per minute. Add the International Bundle for 6 euros per month to get 200 minutes."}
+]
